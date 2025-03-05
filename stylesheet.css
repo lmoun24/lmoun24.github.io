@@ -1,17 +1,34 @@
-body {
-  background-color:purple;}
-h1 {
-  color: black;
+ul.nav {
+	list-style-type: none;
+  overflow: hidden;
+	background-color:green;
+	position: fixed; /* Set the navbar to fixed position */
+ 	top: 0; /* Position the navbar at the top of the page */
+	left: 0;
+	right: 0;
+ 	width: 100%;
 }
-a {
-  color: black;}
-a {
+
+li.nav {
+	float: right;
+}
+
+
+li.nav a {
 	font-family: "Garamond", serif;
 	font-size: 1.5em;
 	display: block;
-  	color: black;
+  	color: white;
   	text-align: center;
   	padding: 14px 25px;
   	text-decoration: none;
 }
- <img src="IMG_7363.HEIC" alt="a picture of my cat stitch" width="460" height="345">
+
+li.nav a:hover {
+	background-color: black;
+}
+
+ul.nodot {
+	list-style-type: none;
+	margin-left: 8%;
+}
