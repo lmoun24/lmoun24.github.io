@@ -3,6 +3,9 @@ ul.nodot {
 	margin-left: 8%;}
 a {
   color: black;}
+body {
+  background-color: green;
+}
 li.nav a {
 	font-family: "Garamond", serif;
 	font-size: 1.5em;
@@ -10,6 +13,4 @@ li.nav a {
   	text-align: center;
   	padding: 14px 25px;
   	text-decoration: none;	
-body {
-  background-color: green;
 }
