@@ -10,3 +10,6 @@ ul.nodot {
 	list-style-type: none;
 	margin-left: 8%;
 }
+a {
+  color: black;
+}
