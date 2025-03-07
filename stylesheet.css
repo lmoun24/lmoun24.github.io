@@ -1,25 +1,9 @@
 ul.nodot {
 	list-style-type: none;
-	margin-left: 8%;}
+	margin-left: 8%;
+}
 a {
   color: black;}
 body {
   background-color: green;
-}
-li.nav a {
-	font-family: "Garamond", serif;
-	font-size: 1.5em;
-	display: block;
-  	text-align: center;
-  	padding: 14px 25px;
-  	text-decoration: none;	
-}
-ul.nav {
-	list-style-type: none;
-  overflow: hidden;
-	position: fixed; /* Set the navbar to fixed position */
- 	top: 0; /* Position the navbar at the top of the page */
-	left: 0;
-	right: 0;
- 	width: 100%;
 }
