@@ -14,7 +14,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 10px 12px;
   text-decoration: none;
 }
 
@@ -25,5 +25,5 @@ li a:hover {
 ul {
   position: fixed;
   top: 0;
-  width: 100%;
+  width: 75%;
 }
