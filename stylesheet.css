@@ -1,23 +1,23 @@
-li.nav {
-	float: right;
+l.nav {
+	list-style-type: none;
+  overflow: hidden;
+	background-color:blue;
+	position: fixed; /* Set the navbar to fixed position */
+ 	top: 0; /* Position the navbar at the top of the page */
+	left: 0;
+	right: 0;
+ 	width: 100%;
 }
-
-
 li.nav a {
 	font-family: "Garamond", serif;
 	font-size: 1.5em;
 	display: block;
-  	color: white;
-  	text-align: center;
+  	color: black;
+  	text-align: top of page;
   	padding: 14px 25px;
   	text-decoration: none;
 }
 
 li.nav a:hover {
-	background-color: #1f6099;
-}
-
-ul.nodot {
-	list-style-type: none;
-	margin-left: 8%;
+	background-color:green;
 }
